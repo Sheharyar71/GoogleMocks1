@@ -1,0 +1,6 @@
+{
+  "name": "Secure SIP",
+  "description": "Secure P2P/SIP communication client with custom end-to-end encryption, active peers list, settings, Bluetooth connectivity, and push notification simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,31 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Shield Outer Outline (Cyber Green) -->
+    <path
+        android:fillColor="#00E676"
+        android:pathData="M54,16 C71.33,21.33 80,24 88,25 C88,51 77.33,74.67 54,88 C30.67,74.67 20,51 20,25 C28,24 36.67,21.33 54,16 Z" />
+    
+    <!-- Shield Inner Core (Dark contrast slate) -->
+    <path
+        android:fillColor="#12161A"
+        android:pathData="M54,22 C68.5,26.5 76,28.8 82,29.7 C82,51.8 73,72 54,83 C35,72 26,51.8 26,29.7 C32,28.8 39.5,26.5 54,22 Z" />
+        
+    <!-- Padlock Body (Tactical Teal) -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M40,50 h28 v22 h-28 z" />
+        
+    <!-- Padlock Shackle (Tactical Teal) -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M44,50 V43 a10,10 0 0,1 20,0 v7 h-4 V43 a6,6 0 0,0 -12,0 v7 z" />
+        
+    <!-- Padlock Keyhole (Charcoal center) -->
+    <path
+        android:fillColor="#12161A"
+        android:pathData="M54,57 a3,3 0 1,0 0,6 v4 h-2 v-4 a3,3 0 0,0 2,-6" />
+</vector>
